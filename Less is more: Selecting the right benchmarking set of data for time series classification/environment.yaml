@@ -1,0 +1,12 @@
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+  - bioconda
+dependencies:
+  - python
+  - snakemake
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn

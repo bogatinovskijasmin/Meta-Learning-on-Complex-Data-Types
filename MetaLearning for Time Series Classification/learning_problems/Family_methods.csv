@@ -1,0 +1,31 @@
+Algorithm,Type,Acronym
+Word ExtrAction for time SEries cLassification,Dictionary,WEASEL
+Weighted Dynamic Time Warping,Whole Series,
+Time Warp Edit Distance,Whole Series,
+Time Series Forest,Intervals,TSF
+Time Series Combination of Heterogeneous and Integrated Embeddings Forest,Hybrid,TS-CHIEF
+Time Series Bag of Features,Intervals,
+The Shapelet Transform Classifier,Shapelet,STC
+Spatial Bag of SFA Symbols,Dictionary,S-BOSS
+Shapelet Transform,Shapelets,
+SAX and Vector Space Model,Dictionary,
+ResNet,Deep learning,ResNet
+Random Interval Spectral Ensemble,Frequency,RISE
+Random Convolutional Kernel Transform,Hybrid,ROCKET
+Proximity Forest,Distance based,ProximityForest
+Move-Split-Merge,Whole Series,
+Learned Shapelets,Shapelets,
+Learned Pattern Similarity,Intervals,
+InceptionTime,Deep learning,InceptionTime
+Hierarchical Vote Collective of Transformation-based Ensembles,Whole Series/Shapelets,HIVE-COTE v1.0
+Flat Collective of Transformation-based Ensembles,Whole Series/Shapelets,
+Fast Shapelet Tree,Shapelets,
+Elastic Ensemble,Whole Series,
+DTW Features,Dictionary,
+Derivative Transform Distance,Whole Series,
+Derivative DTW,Whole Series,
+Contract Bag of SFA Symbols,Dictionary,cBOSS
+Complexity-Invariant Distance,Whole Series,
+Canonical Time-series Characteristics,Hybrid,Catch22
+Bag of SFA Symbols,Dictionary,BOSS
+Bag of Patterns,Dictionary,
